@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Chelsea Celis
 
-💼 Back-end Developer Intern at TORO Cloud
+💼 Currently working as a Back-end Developer Intern at TORO Cloud
 
 🎓 Bachelor of Science in Computer Science at Holy Angel University (soon to graduate this 2024 🙏)
 
