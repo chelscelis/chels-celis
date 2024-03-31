@@ -32,7 +32,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## 👾 Recent Projects
+## 👾 Recent Academic Projects
 
 ### 🔗 [Semantic Analysis for Resume Screening and Classification System using K-Nearest Neighbors Algorithm and Cosine Similarity](https://huggingface.co/spaces/chelscelis/resume-screening-classification/tree/main)
 - Developed an automated resume screening and classification system that incorporates multiple natural language processing techniques and algorithms
