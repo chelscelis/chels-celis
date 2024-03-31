@@ -34,16 +34,16 @@
 
 ## 👾 Recent Projects
 
-### [Semantic Analysis for Resume Screening and Classification System using K-Nearest Neighbors Algorithm and Cosine Similarity](https://huggingface.co/spaces/chelscelis/resume-screening-classification/tree/main)
+### 🔗 [Semantic Analysis for Resume Screening and Classification System using K-Nearest Neighbors Algorithm and Cosine Similarity](https://huggingface.co/spaces/chelscelis/resume-screening-classification/tree/main)
 - Developed an automated resume screening and classification system that incorporates multiple natural language processing techniques and algorithms
 - Conducted data preprocessing and information extraction tasks
 - Implemented metrics and cross-validation tests for model evaluation
 
-### [Stock Prediction Website Application using Long Short-Term Memory](https://github.com/chelscelis/lstm-stock-prediction-project)
+### 🔗 [Stock Prediction Website Application using Long Short-Term Memory](https://github.com/chelscelis/lstm-stock-prediction-project)
 - Developed a website application for stock prediction leveraging LSTM neural networks
 - Trained the LSTM model using the Jollibee Stock Prices dataset
 - Conducted testing and optimization to improve the model's overall performance
 
-### [Pathfinder Website Application using Dijkstra's Shortest Path Algorithm](https://github.com/chelscelis/pathfinder-app)
+### 🔗 [Pathfinder Website Application using Dijkstra's Shortest Path Algorithm](https://github.com/chelscelis/pathfinder-app)
 - Developed a website application for pathfinding and to visualize the Dijkstra's Shortest Path Algorithm in a node-based map
 - Integrated features allowing users to edit the map platform and visualize the calculated paths
