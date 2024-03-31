@@ -4,7 +4,7 @@
 
 🎓 Bachelor of Science in Computer Science at Holy Angel University (soon to graduate this 2024 🙏)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](celis.chelseatrisha@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celis.chelseatrisha@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chelsea-trisha-celis-0510b127b/)
 
 ## 🤖 What I've Worked With
