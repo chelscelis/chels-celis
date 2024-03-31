@@ -1,5 +1,4 @@
 # 👋 Hello! I'm Chelsea Celis
----
 
 💼 Back-end Developer Intern at TORO Cloud
 
@@ -9,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chelsea-trisha-celis-0510b127b/)
 
 ## 🤖 What I've Worked With
----
 
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,7 +32,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 👾 Recent Projects
----
 
 ### [Semantic Analysis for Resume Screening and Classification System using K-Nearest Neighbors Algorithm and Cosine Similarity](https://huggingface.co/spaces/chelscelis/resume-screening-classification/tree/main)
 - Developed an automated resume screening and classification system that incorporates multiple natural language processing techniques and algorithms
